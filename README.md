@@ -25,7 +25,7 @@ This project is a simple E-Commerce backend application developed using Django a
 
 ## ▶️ How to Run the Project
 1. Clone the repository: https://github.com/girijav3108/task3-ecommerce-backend.git
-2. 2. Navigate to the project folder: cd task3-ecommerce-backend
+2. Navigate to the project folder: cd task3-ecommerce-backend
 3. Run migrations: python manage.py makemigrations
                    python manage.py migrate
 4. Create superuser: python manage.py createsuperuser
